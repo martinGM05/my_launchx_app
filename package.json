@@ -1,0 +1,19 @@
+{
+  "name": "my_launchx_app",
+  "version": "1.0.0",
+  "description": "Prácica 1 Semana 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinGM05/my_launchx_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinGM05/my_launchx_app/issues"
+  },
+  "homepage": "https://github.com/martinGM05/my_launchx_app#readme"
+}
